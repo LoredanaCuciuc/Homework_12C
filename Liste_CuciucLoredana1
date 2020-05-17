@@ -1,0 +1,18 @@
+<html>
+    <head>
+    <title> HTML </title>
+   
+    </head>
+    <body bgcolor="pink" topmargin="5%" leftmargin="5%" rightmargin="5%">
+        <font color="white"> <h1><center> Cartea <h4>Tată bogat,tată sărac</h4></center></h1> </font>
+        <ol type="1">
+             <font color="black"> <h3><center> Curpins: </center> </h3> </font>
+            <li> Cei bogaţi nu muncesc pentru bani</li>
+            <li> De ce trebuie predat alfabetul financiar</li>
+            <li> Vezi-ţi singur de afacerea ta</li>
+            <li>  Istoria impozitelor şi puterea companiilor</li>
+            <li>  Cei bogaţi inventează banii</li>
+            <li> Munciţi ca să învăţaţi, nu munciţi pentru bani</li>
+        </ol>
+    </body>
+</html>
